@@ -13,8 +13,7 @@ Supermercados D&S
 - walmart org:"Wal-Mart Stores  Inc."
 
 ## ASN
-- ASN46313
-- ASN46312
+- ASN46313 + ASN46312
 	- 161.170.232.0/23
 	- 156.93.206.0/23
 	- 156.93.208.0/23
