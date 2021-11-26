@@ -10,6 +10,32 @@ List of the domains:
 - walmartchile.cl
 - walmartgamecenter.com
 - walmartlivebetter.ca
+- asda.com
+- com.mx
+- jet.com
+- sams.com
+- sams.com.mx
+- samsclub.com
+- samsclubpr.com
+- wal-maft.com
+- wal-mart.com
+- walmart.ca
+- walmart.com
+- walmart.com.br
+- walmart.com.mx
+- walmartapis.com
+- walmartbrandcenter.com
+- walmartethics.com
+- walmartimages.ca
+- walmartimages.com
+- walmartmuseum.com
+- walmartone.com
+- walmartpr.com
+- wmfs.ca
+- wmt.co
+- walmart-jump.com
+
+
 
 ## Shodan
 List of the shodan searches:
