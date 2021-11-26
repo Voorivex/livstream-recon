@@ -1,0 +1,57 @@
+[DNS]             postman.walmartchile.cl 200.75.7.105
+[SonarSearch]     diversidad.walmartchile.cl 209.59.129.130
+[Brute Forcing]   www.walmartchile.cl 20.75.129.204
+[DuckDuckGo]      micredencial.walmartchile.cl 13.68.112.186
+[Brute Forcing]   dns1.walmartchile.cl 200.75.7.99
+[Brute Forcing]   pop3.walmartchile.cl 200.75.7.115
+[SonarSearch]     remoto.walmartchile.cl 200.29.181.206,200.75.7.121,200.68.36.217
+[SonarSearch]     sng.walmartchile.cl 200.29.181.204
+[SonarSearch]     milugar.walmartchile.cl 13.68.112.186
+[Brute Forcing]   agenda.walmartchile.cl 20.186.108.170
+[DuckDuckGo]      mayorista.walmartchile.cl 52.167.49.170
+[SonarSearch]     wsap.walmartchile.cl 200.29.181.170
+[CertSpotter]     talentopordelante.walmartchile.cl 20.75.129.204
+[SonarSearch]     mobexp.walmartchile.cl 200.29.181.203
+[SonarSearch]     postman4.walmartchile.cl 200.75.7.111
+[AbuseIPDB]       ecoways-server-staging.walmartchile.cl 52.179.134.81
+[AbuseIPDB]       apisigo.walmartchile.cl 104.209.173.185
+[AbuseIPDB]       proveedores.walmartchile.cl 200.29.181.194
+[AbuseIPDB]       push.walmartchile.cl 200.29.181.169
+[AbuseIPDB]       bsfout.walmartchile.cl 200.75.7.105
+[AbuseIPDB]       grafana-retail.walmartchile.cl 200.29.181.193
+[AbuseIPDB]       gms.walmartchile.cl 200.75.7.102
+[AbuseIPDB]       bsflts.walmartchile.cl 200.75.7.105
+[DuckDuckGo]      nvm.walmartchile.cl 52.167.49.170
+[AbuseIPDB]       chatbot.walmartchile.cl 23.98.154.134
+[Crtsh]           portal.walmartchile.cl 201.238.204.238
+[AbuseIPDB]       pagoproveedor.walmartchile.cl 201.238.204.241
+[AbuseIPDB]       cesi360-backend.walmartchile.cl 13.68.112.186
+[AbuseIPDB]       juntosnoscuidamos.walmartchile.cl 13.68.112.186
+[AbuseIPDB]       modulares.walmartchile.cl 40.84.24.243
+[AbuseIPDB]       cyd-bff.walmartchile.cl 13.68.112.186
+[AbuseIPDB]       modulares-middleware.walmartchile.cl 40.84.24.243
+[DNS]             walmartchile.cl 20.75.129.204
+[Crtsh]           nsi.walmartchile.cl 200.68.36.218
+[SonarSearch]     ubicalocal.walmartchile.cl 201.238.204.227
+[AbuseIPDB]       elex.walmartchile.cl 13.68.112.186
+[AbuseIPDB]       nsiqa.walmartchile.cl 200.29.181.180
+[AbuseIPDB]       cesi360.walmartchile.cl 13.68.112.186
+[AbuseIPDB]       bsfdys.walmartchile.cl 200.75.7.105
+[AbuseIPDB]       api-authsigo.walmartchile.cl 104.209.173.185
+[AbuseIPDB]       elex-azure-storage.walmartchile.cl 13.68.112.186
+[AbuseIPDB]       credentials-bff.walmartchile.cl 13.68.112.186
+[AbuseIPDB]       cesi360-socket.walmartchile.cl 13.68.112.186
+[AbuseIPDB]       elex-bff.walmartchile.cl 13.68.112.186
+[AbuseIPDB]       modulares-images.walmartchile.cl 40.84.24.243
+[AbuseIPDB]       cyd.walmartchile.cl 13.68.112.186
+[Brute Forcing]   edi.walmartchile.cl 200.29.181.195
+[AbuseIPDB]       ecoways.walmartchile.cl 13.68.112.186
+[BufferOver]      tms.wd.walmartchile.cl 200.68.36.219
+[Crtsh]           oscaplusproveedores.wd.walmartchile.cl 201.238.204.236
+[AbuseIPDB]       ape.walmartchile.cl 201.238.204.228,200.29.181.164
+[BufferOver]      tms.walmartchile.cl 200.68.36.219
+[AbuseIPDB]       nsipp.walmartchile.cl 201.238.204.247
+[Crtsh]           oscaplusproveedores.walmartchile.cl 201.238.204.236
+[AbuseIPDB]       pricescan.walmartchile.cl 40.76.47.4
+[AbuseIPDB]       reclamos.walmartchile.cl 13.68.112.186
+[Brute Forcing]   supplier.walmartchile.cl 200.75.7.115

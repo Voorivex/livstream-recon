@@ -1,0 +1,9 @@
+[Brute Forcing]   store.wmt.co 166.90.142.58
+[SonarSearch]     url.wmt.co 166.90.142.61
+[GoogleCT]        wmt.co 161.170.248.157,161.170.244.157
+[SonarSearch]     url.stage.wmt.co 166.90.142.59
+[AbuseIPDB]       9302991.links-em.wmt.co 167.89.123.124,167.89.118.83,167.89.118.52,167.89.115.56,167.89.115.120,167.89.123.54
+[AbuseIPDB]       9302991.em.wmt.co 167.89.123.124,167.89.123.54,167.89.115.120,167.89.118.52,167.89.115.56,167.89.118.83
+[Brute Forcing]   www.wmt.co 23.72.16.9
+[Brute Forcing]   r.wmt.co 13.57.149.52,13.56.153.199
+[GoogleCT]        dw.wmt.co 20.85.9.11

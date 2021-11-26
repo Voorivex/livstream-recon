@@ -1,0 +1,2 @@
+[GoogleCT]        walmart.org 198.61.150.30
+[GoogleCT]        www.walmart.org 198.61.150.30

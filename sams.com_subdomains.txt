@@ -1,0 +1,2 @@
+[DNS]             sams.com 161.170.232.150,161.170.238.150
+[GoogleCT]        www.sams.com 2.20.9.87
