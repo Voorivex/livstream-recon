@@ -27,10 +27,9 @@ here are the moethods we used:
 
 1. domain -> ASN -> CIDR -> Reverse IP lookup
 2. domain -> certificate -> information -> reverse look up in certificates
-3. Text parsing, Google dorks
-4. Reverse image search
-5. domain -> ASN -> CIDR -> certificate search
-6. 
+3. domain -> ASN -> CIDR -> certificate search
+4. Text parsing, Google dorks
+5. Reverse image search 
 
 ## Censys searcher
 
