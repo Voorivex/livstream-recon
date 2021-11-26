@@ -1,6 +1,6 @@
 import imgkit
 
-with open('./url.txt') as f:
+with open('./urls.txt') as f:
    for line in f:
       filename = str(line.replace("\n", "")+'.jpg')
       try:
