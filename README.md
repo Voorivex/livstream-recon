@@ -10,9 +10,6 @@ List of the domains:
 - walmartchile.cl
 - walmartgamecenter.com
 - walmartlivebetter.ca
-- walmartchile.cl
-- walmartgamecenter.com
-- walmartlivebetter.ca
 - wal-mart.com
 - walmart.com
 - walmartpr.com
@@ -29,12 +26,12 @@ List of the domains:
 - wmfs.ca
 - walmart.ca
 - walmartapis.com
-- www.walmartshoplive.com
-- www.walmartgift.com
-- www.walmarthealth.com
+- walmartshoplive.com
+- walmartgift.com
+- walmarthealth.com
 - wmstorechat-1.custhelp.com
 - dxfairmall.com
-- Hayneedle.com
+- hayneedle.com
 - jet.com
 - wal-mart.com
 
