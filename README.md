@@ -17,7 +17,8 @@ List of the shodan searches:
 
 ## ASN
 List of the AS numbers:
-- 
+- 46313
+- 46312
 
 
 
