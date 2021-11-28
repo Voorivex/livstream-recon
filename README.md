@@ -74,6 +74,9 @@ services.tls.certificates.leaf_data.subject.organization: (Walmart Inc.) and aut
 "© 2021 Walmart. All Rights Reserved."
 "Walmart. All Rights Reserved."  -inurl:walmart.com"
 © 2021 Walmart. All Rights Reserved."
+"acq. Walmart"
+"a Walmart company"
+"Acquired By Walmart"
 ```
 
 ## Image reverse Search
