@@ -57,6 +57,23 @@ here are the moethods we used:
 
 ## Censys searcher
 
+Approach 1:
+1. Search and get the pages
+2. Request to all pages and parse `parsed.subject_dn` field
+3. Save the results
+```
+curl -s https://censys.io/api/v1/search/certificates -u "KEY:SECRET" -H "content-type: application/json" --data '{"query":"parsed.subject.organization: walmart"}' | tee walmart-censys.json | jq -r ".results[].\"parsed.subject_dn\"" | tee walmart-censys-parsed.txt
+```
+
+Approach 2:
+1. Search and get the pages
+2. Request to all pages
+3. Request to certificates (By SHA256)
+4. Parse the JSON response to extract the information
+```
+curl -s https://censys.io/api/v1/view/certificates/d53579e8fab81588193d26d91d029ff0fc76521c4c18f60e125066ca8426e8b9 -u "KEY:SECRET" | tee 1 | jq -r ".parsed | [.__expanded_names, .extensions.subject_alt_name.dns_names, .names][][]" | sort -u
+```
+
 ```
 services.banner: walmart
 services.tls.certificates.leaf_data.issuer.common_name: Walmart Inc.
