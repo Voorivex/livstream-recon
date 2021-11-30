@@ -73,7 +73,7 @@ Approach 2:
 ```
 curl -s https://censys.io/api/v1/view/certificates/d53579e8fab81588193d26d91d029ff0fc76521c4c18f60e125066ca8426e8b9 -u "KEY:SECRET" | tee 1 | jq -r ".parsed | [.__expanded_names, .extensions.subject_alt_name.dns_names, .names][][]" | sort -u
 ```
-
+Host seaches:
 ```
 services.banner: walmart
 services.tls.certificates.leaf_data.issuer.common_name: Walmart Inc.
