@@ -47,7 +47,7 @@ List of the AS numbers:
 
 ## method
 
-here are the moethods we used:
+here are the methods we used:
 
 1. domain -> ASN -> CIDR -> Reverse IP lookup
 2. domain -> certificate -> information -> reverse look up in certificates
